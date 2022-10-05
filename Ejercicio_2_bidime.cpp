@@ -28,5 +28,6 @@ int main()
 	{
 		cout<<"El nuevo vector es:\n"<<"A["<<i<<"]:"<<suma[i]<<endl;
 	}
+	
 	return 0;
 }
